@@ -6,5 +6,11 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'movil';
+  title = 'Eder´s Class';
+  public usuario: boolean;
+  //Constructor de la clase:
+  constructor(){
+    // Por defecto dejamos al usuario false:
+    this.usuario = false;
+  }
 }
