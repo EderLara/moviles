@@ -114,3 +114,7 @@ body {
     color: #777;
   }
 }
+.fondonegro{
+  background-color: black !important;
+  color: white;
+}

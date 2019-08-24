@@ -6,6 +6,8 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
+
+  // Variables 
   title = 'Eder´s Class';
   public usuario: boolean;
   //Constructor de la clase:
